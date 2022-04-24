@@ -8,7 +8,7 @@
 //     // save a reference to the database 
 //     const db = event.target.result;
 //     // create an object store (table) called `new_pizza`, set it to have an auto incrementing primary key of sorts 
-//     db.createObjectStore('budget_tracker', { autoIncrement: true });
+//     db.createObjectStore('new_budget', { autoIncrement: true });
 // };
 
 // // upon a successful 
