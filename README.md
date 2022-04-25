@@ -23,7 +23,7 @@ Table of Contents
 
 [Deployed Application](https://mighty-wave-59762.herokuapp.com/)
 
-![screenshot of deployed application](/images/screenshot.png)
+![screenshot of deployed application](/public/images/screenshot.png)
 
 ---------
 
